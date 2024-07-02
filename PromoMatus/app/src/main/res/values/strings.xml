@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PromoMatus</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="catedral_de_chillan">La catedral de Chillán es un templo de la iglesia católica, sede de la Diócesis de Chillán ubicada en el centro de la ciudad de Chillán frente a la Plaza de armas de Chillán, en la esquina de calles Arauco y Libertad.</string>
+    <string name="laguna_del_huemul">La Laguna Huemul es un hermoso y visitado destino turístico ubicado en el Valle Las Trancas, Chillán. Se trata de una laguna ubicada en la cima de una montaña y que durante la época estival se presenta en un tono verde esmeralda, creando un escenario de belleza inigualable.</string>
+</resources>
