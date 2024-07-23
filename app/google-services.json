@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "343493742347",
+    "project_id": "promomatus-5cdac",
+    "storage_bucket": "promomatus-5cdac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343493742347:android:a12209c3c876bc439c9c0e",
+        "android_client_info": {
+          "package_name": "cl.isisur.promomatus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBktYYpoYgJ7CfJuX7ciFCMH5kjPpo7l6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
